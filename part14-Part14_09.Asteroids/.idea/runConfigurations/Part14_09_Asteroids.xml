@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part14_09.Asteroids" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="asteroids.App" />
+    <module name="Part14_09.Asteroids" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
